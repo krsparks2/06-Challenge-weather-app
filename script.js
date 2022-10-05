@@ -18,11 +18,11 @@ let weather =
         const { speed } = data.wind;
         console.log(name, icon, description, temp, humidity, speed)
         document.querySelector(".city").innerText = "Weather in " + name;
-        // document.querySelector(".icon").src = "https://openweathermap.org/img/wn/" + icon + "@1x.png";
-        document.querySelector(".description").innerText = "desciption: " + description;
-        document.querySelector(".temp").innerText = "temperature: " + temp + "°F";
-        document.querySelector(".humidity").innerText = "humidity: " + humidity + "%";
-        document.querySelector(".wind").innerText = "wind speed " + speed + "mph";
+        // document.querySelector(".icon").src = "https://openweathermap.org/img/wn/" + icon + "@2x.png";
+        document.querySelector(".description").innerText = "Desciption: " + description;
+        document.querySelector(".temp").innerText = "Temperature: " + temp + "°F";
+        document.querySelector(".humidity").innerText = "Humidity: " + humidity + "%";
+        document.querySelector(".wind").innerText = "Wind Speed " + speed + "mph";
         },
         search: function (){
             this.fetchWeather(document.querySelector(".searchBar").value);
