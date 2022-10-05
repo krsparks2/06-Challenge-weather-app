@@ -29,6 +29,6 @@ let weather =
         }
 };
 
-document.querySelector(".search button").addEventListener("click", function() {
+document.querySelector(".searchButton").addEventListener("click", function() {
     weather.search();
     })
