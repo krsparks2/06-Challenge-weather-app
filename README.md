@@ -28,12 +28,14 @@ I used a third party API to pull in the data
 
 ## Questions
 
-[Keli-Rene Sparks](https://www.github.com/tracyroseguajardo)
+[github](https://github.com/krsparks2)
+<br>
+[email](mailto:krsparks2@yahoo.com)
 
 ## Visuals
 
 Link to deployed application:
-[Weather Dashboard](https://tracyroseguajardo.github.io/weather-dashboard/)
+[Weather Dashboard](https://krsparks2.github.io/06-Challenge-weather-app/)
 
-Screenshot of application:
-![Weather Dashboard Screenshot](./assets/images/weather-dashboard-screenshot.png)
+Screenshot of application:<br>
+![Weather Dashboard Screenshot](./assets/screenshot.PNG)
